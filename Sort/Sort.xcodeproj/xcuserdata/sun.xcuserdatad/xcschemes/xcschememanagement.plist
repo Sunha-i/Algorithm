@@ -14,10 +14,20 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>wordsorting.xcscheme_^#shared#^_</key>
+		<key>sortbyage.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>sortcoordinate.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>wordsorting.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
 		</dict>
 	</dict>
 </dict>
