@@ -24,6 +24,16 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>goupstairs.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>makeitone.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 		<key>rockgame.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
